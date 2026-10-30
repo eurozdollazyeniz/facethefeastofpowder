@@ -1,4 +1,5 @@
-https://i.makeagif.com/media/6-14-2021/sM4jkq.gif
+<img src="https://i.makeagif.com/media/6-14-2021/sM4jkq.gif" alt="LITTLE BIG - HYPNODANCER (Official Music Video) on Make a GIF"/><img width="320" height="168" alt="image" src="https://github.com/user-attachments/assets/1f2f57fb-3dfd-47d1-9996-77ae5bf85be9" />
+
 
 <!--
 **facethefeastofpowder/facethefeastofpowder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
